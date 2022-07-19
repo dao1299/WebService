@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/all_type"
+        android:id="@+id/mnuAll"/>
+    <item
+        android:title="@string/buy_type"
+        android:id="@+id/mnuBuy" />
+    <item
+        android:title="@string/rent_type"
+        android:id="@+id/mnuRent" />
+</menu>

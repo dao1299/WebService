@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitAssignment</string>
+    <string name="all_type">All</string>
+    <string name="buy_type">Buy</string>
+    <string name="rent_type">Rent</string>
+</resources>
